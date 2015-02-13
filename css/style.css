@@ -9,3 +9,10 @@
 .icon-block {
   padding: 0 15px;
 }
+body {
+    background:#cfd8dc;
+}
+h1, h2, h3, h4, h5, h6 {
+    background: #eceff1;
+    border-bottom:2px solid #cddc39;
+}
